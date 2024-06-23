@@ -8,7 +8,9 @@
 </div>
 <h2>Landing Page; Site GameWeb JokenPo</h2>
 <br>
-# Confira a aplicação <a href="https://alx-8914.github/jokenpo"/>Aqui!</a>
+# Aplicação GitHub<a href="https://github.com/alx-8914/jokenpo"/>Aqui!</a>
+<br>
+# Aplicação na Netlify <a href="https://jokenpo-web.netlify.app/"/>Aqui!</a>
 <div>
   <img src="https://github.com/alx-8914/jokenpo/blob/main/landpages-JKP%C3%94.png"/>
   <img src="https://github.com/alx-8914/jokenpo/blob/main/Captura%20de%20tela-%20Pontp-Alexa.png"/>
